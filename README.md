@@ -7,4 +7,4 @@ This sample application was created using the NetBeans IDE (www.netbeans.org) an
 Feel free to use your own deployment approach.
 
 ##Running the Application
-After successfuly deploying the application, the client should be available at http://<hostname>:<port>/HelloWorld_WebSocket/index.html
+After successfuly deploying the application, the client should be available at `http://<hostname>:<port>/HelloWorld_WebSocket/index.html`
